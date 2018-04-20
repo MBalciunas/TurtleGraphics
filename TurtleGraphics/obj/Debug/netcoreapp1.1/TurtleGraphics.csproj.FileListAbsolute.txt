@@ -1,0 +1,21 @@
+c:\users\mangirdas\documents\visual studio 2017\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.1\TurtleGraphics.deps.json
+c:\users\mangirdas\documents\visual studio 2017\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.1\TurtleGraphics.runtimeconfig.json
+c:\users\mangirdas\documents\visual studio 2017\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.1\TurtleGraphics.runtimeconfig.dev.json
+c:\users\mangirdas\documents\visual studio 2017\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.1\TurtleGraphics.dll
+c:\users\mangirdas\documents\visual studio 2017\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.1\TurtleGraphics.pdb
+c:\users\mangirdas\documents\visual studio 2017\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.1\TurtleGraphics.csprojResolveAssemblyReference.cache
+c:\users\mangirdas\documents\visual studio 2017\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.1\TurtleGraphics.csproj.CoreCompileInputs.cache
+c:\users\mangirdas\documents\visual studio 2017\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.1\TurtleGraphics.AssemblyInfo.cs
+c:\users\mangirdas\documents\visual studio 2017\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.1\TurtleGraphics.dll
+c:\users\mangirdas\documents\visual studio 2017\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.1\TurtleGraphics.pdb
+E:\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.1\TurtleGraphics.deps.json
+E:\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.1\TurtleGraphics.runtimeconfig.json
+E:\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.1\TurtleGraphics.runtimeconfig.dev.json
+E:\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.1\TurtleGraphics.dll
+E:\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.1\TurtleGraphics.pdb
+E:\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.1\TurtleGraphics.csprojResolveAssemblyReference.cache
+E:\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.1\TurtleGraphics.csproj.CoreCompileInputs.cache
+E:\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.1\TurtleGraphics.AssemblyInfoInputs.cache
+E:\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.1\TurtleGraphics.AssemblyInfo.cs
+E:\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.1\TurtleGraphics.dll
+E:\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.1\TurtleGraphics.pdb

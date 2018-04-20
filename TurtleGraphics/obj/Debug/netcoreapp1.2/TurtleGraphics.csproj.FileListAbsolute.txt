@@ -1,0 +1,11 @@
+E:\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.2\TurtleGraphics.deps.json
+E:\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.2\TurtleGraphics.runtimeconfig.json
+E:\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.2\TurtleGraphics.runtimeconfig.dev.json
+E:\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.2\TurtleGraphics.dll
+E:\Projects\TurtleGraphics\TurtleGraphics\bin\Debug\netcoreapp1.2\TurtleGraphics.pdb
+E:\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.2\TurtleGraphics.csprojResolveAssemblyReference.cache
+E:\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.2\TurtleGraphics.csproj.CoreCompileInputs.cache
+E:\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.2\TurtleGraphics.AssemblyInfoInputs.cache
+E:\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.2\TurtleGraphics.AssemblyInfo.cs
+E:\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.2\TurtleGraphics.dll
+E:\Projects\TurtleGraphics\TurtleGraphics\obj\Debug\netcoreapp1.2\TurtleGraphics.pdb
